@@ -1,0 +1,48 @@
+0
+#############222###
+#Y      #         #
+#       #         #
+#       #         #
+# W WW  #         #
+#       #     F   #
+#       #         #
+#       #         1
+#       #   F     1
+#       #         #
+#       #         #
+#       #         #
+#                 #
+#                 #
+###################
+1
+###################
+#            LL   #
+#             LL  #
+#          F   LL #
+#               LL#
+#          M     L#
+#   F             #
+0           F     #
+0                 #
+#               ###
+#             ### #
+#        F ##D#   #
+#         ##    P #
+#        ##       #
+###################
+2
+###################
+#LLLLLLLLLLLLLLLLL#
+#LLL          LLLL#
+#   WWWWWWWWWWW   #
+#   WWWWWWWWWWW   #
+#   WWW     WWW   #
+#   WWW  C  WWW   #
+#   WWW     WWW   #
+#   WWWWWWWWWWW   #
+#   WWWWWWWWWWW   #
+#                 #
+#          LLLLLLL#
+#         LLLLL ###
+#       LLLLL  ####
+#############000###
